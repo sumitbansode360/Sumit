@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sumit Bansode 👋  
+# Hi 👋, I'm Sumit Bansode
 
 **Python Backend Developer (Django/DRF) | Full-Stack Developer | Real-Time App Enthusiast**
 <!-- I specialize in building **scalable, modern, and high-performance applications** across frontend and backend technologies. Passionate about emerging tech and innovation, I'm constantly learning and pushing the boundaries of what's possible. Oh, and I also founded [_**Desphixs**_](https://desphixs.io).  -->
