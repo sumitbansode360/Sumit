@@ -93,8 +93,6 @@ Google Docs-style collaborative editor
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitbansode360/Sumit/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitbansode360/Sumit/output/github-snake.svg" />
